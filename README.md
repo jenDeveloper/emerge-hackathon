@@ -47,3 +47,5 @@ In addition, your project repository's README file should have:
 - **Team member Twitter URLs** (or URLs for other Internet profiles)
 
 See the [example project README](example-project-readme.md) to get an idea of what it should look like.
+
+- [Class at a GLance](https://github.com/jenDeveloper/classataglance) by Hackasaurus Rexes
